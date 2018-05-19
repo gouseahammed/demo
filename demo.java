@@ -1,4 +1,4 @@
-class demo
+
 {
 void main
 gouse
